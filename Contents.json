@@ -236,8 +236,8 @@
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "雷　黄色",
-			"Author" : "",
-			"Package" : "None",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -385,7 +385,7 @@
 			"FPS" : 1,
 			"Name" : "ガイコツ",
 			"Author" : "aoirocat",
-			"Package" : "None",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -863,8 +863,8 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "稲妻　黒",
-			"Author" : "",
-			"Package" : "None",
+			"Author" : "aoriocat",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -885,8 +885,8 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "稲妻　黄色",
-			"Author" : "",
-			"Package" : "None",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -907,8 +907,8 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "稲妻　プレイヤーカラー",
-			"Author" : "",
-			"Package" : "None",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -929,8 +929,8 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "幽霊",
-			"Author" : "",
-			"Package" : "None",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -951,8 +951,8 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "骸骨",
-			"Author" : "",
-			"Package" : "None",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -973,8 +973,8 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "星",
-			"Author" : "",
-			"Package" : "None",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -995,8 +995,8 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "宝石",
-			"Author" : "",
-			"Package" : "None",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -1017,8 +1017,8 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "かき氷",
-			"Author" : "",
-			"Package" : "None",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -1039,8 +1039,8 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "アリス",
-			"Author" : "",
-			"Package" : "None",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -1061,8 +1061,8 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "ハロウィン帽子",
-			"Author" : "",
-			"Package" : "None",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -1083,8 +1083,8 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "目",
-			"Author" : "",
-			"Package" : "None",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -1106,7 +1106,7 @@
 			"FPS" : 1,
 			"Name" : "チャック",
 			"Author" : "aoirocat",
-			"Package" : "None",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -1128,7 +1128,7 @@
 			"FPS" : 1,
 			"Name" : "チェーン",
 			"Author" : "aoirocat",
-			"Package" : "None",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -1155,7 +1155,7 @@
 			"FPS" : 1,
 			"Name" : "こぼし過ぎじゃない？",
 			"Author" : "aoirocat",
-			"Package" : "None",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -1177,7 +1177,7 @@
 			"FPS" : 1,
 			"Name" : "死体",
 			"Author" : "aoirocat",
-			"Package" : "None",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
