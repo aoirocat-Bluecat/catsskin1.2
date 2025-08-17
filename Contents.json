@@ -3,6 +3,53 @@
 	"Hats" : [
 		{
 			"Main" : {
+				"Hash" : "da7ac3547b41d7158c0a0001ce404414",
+				"Address" : "EAVagnxdc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "519cf54a5842974d7ca98d74980021b9",
+				"Address" : "EAVagnxdc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "はーと_手書き",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+
+		{
+			"Main" : {
+				"Hash" : "248eb9b6d4f9310c20c5bdceb20b95ec",
+				"Address" : "Z0Qy7c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "a10a2e60be701752b4041ae48dfbbe75",
+				"Address" : "Z0Qy7c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "はーと",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
 				"Hash" : "38c6948cfa9338a596bc6eb32b6c7d48",
 				"Address" : "ooi_Main.png",
 				"ExIsFront" : False
@@ -802,6 +849,50 @@
 		}
 	],
 	"Visors" : [
+		{
+			"Main" : {
+				"Hash" : "248eb9b6d4f9310c20c5bdceb20b95ec",
+				"Address" : "Z0Qy7c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "a10a2e60be701752b4041ae48dfbbe75",
+				"Address" : "Z0Qy7c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "はーと",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "da7ac3547b41d7158c0a0001ce404414",
+				"Address" : "EAVagnxdc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "519cf54a5842974d7ca98d74980021b9",
+				"Address" : "EAVagnxdc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "はーと_手書き",
+			"Author" : "aoirocat",
+			"Package" : "None",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
 		{
 			"Main" : {
 				"Hash" : "36061c957571f0e539459373a3d85891",
