@@ -3,6 +3,29 @@
 	"Hats" : [
 		{
 			"Main" : {
+				"Hash" : "3bc52949a7a9fb08c1b7e41fd82e1d23",
+				"Address" : "glWcsyw_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "9159ded182526053d4df7a57b0710536",
+				"Address" : "glWcsyw_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "キラキラ",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+		{
+			"Main" : {
 				"Hash" : "da7ac3547b41d7158c0a0001ce404414",
 				"Address" : "EAVagnxdc_Main.png",
 				"ExIsFront" : False
@@ -1267,6 +1290,116 @@
 			"Fixed" : False,
 			"FPS" : 1,
 			"Name" : "死体",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+		{
+			"Adaptive" : False,
+			"Main" : {
+				"Hash" : "3bc52949a7a9fb08c1b7e41fd82e1d23",
+				"Address" : "glWcsyw_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "9159ded182526053d4df7a57b0710536",
+				"Address" : "glWcsyw_Climb.png",
+				"ExIsFront" : False
+			},
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "キラキラ",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : False,
+			"Main" : {
+				"Hash" : "3d14a682c07216a1d60c70bd29f2450a",
+				"Address" : "iKPwBENmb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "6ae97083d4aec4554f5f2b0d09f286a6",
+				"Address" : "iKPwBENmb_Climb.png",
+				"ExIsFront" : False
+			},
+			"BehindHat" : False,
+			"BackmostBack" : True,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "サイバー数字",
+			"Author" : "aoirocat",
+			"Package" : "None",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : True,
+			"Main" : {
+				"Hash" : "f5af6ac668df450795167861c100d1a6",
+				"Address" : "IVGC8c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "4ea2cfc732224a92199542d7471eb424",
+				"Address" : "IVGC8c_Climb.png",
+				"ExIsFront" : False
+			},
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "シャー",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : True,
+			"Main" : {
+				"Hash" : "c5aa5c9de8d1cba6c488c721a8fcf5f6",
+				"Address" : "WWvy_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "ce58a4b0640f6be60ddd8b9e57774ed6",
+				"Address" : "WWvy_Climb.png",
+				"ExIsFront" : False
+			},
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ぱぁ",
+			"Author" : "aoirocat",
+			"Package" : "aoirocat",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : False,
+			"Main" : {
+				"Hash" : "e5a2a69b19fe05089c2b7e12df13bcfd",
+				"Address" : "nmtFVbY_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "a89da58b7d39377261a7a99d0a651f4a",
+				"Address" : "nmtFVbY_Climb.png",
+				"ExIsFront" : False
+			},
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "波ハート",
 			"Author" : "aoirocat",
 			"Package" : "aoirocat",
 			"IsUnlockable" : False,
