@@ -912,7 +912,7 @@
 			"FPS" : 1,
 			"Name" : "はーと_手書き",
 			"Author" : "aoirocat",
-			"Package" : "None",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
@@ -1335,7 +1335,7 @@
 			"FPS" : 1,
 			"Name" : "サイバー数字",
 			"Author" : "aoirocat",
-			"Package" : "None",
+			"Package" : "aoirocat",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
